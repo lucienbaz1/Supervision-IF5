@@ -1,0 +1,8 @@
+{
+  "timestamp": "2025-02-12 14:22:10",
+  "moteur": 1,
+  "convoyeur": 0,
+  "temperature": 42.7,
+  "niveau": 78,
+  "alarme": "Probleme de capteur sur le convoyeur"
+}
